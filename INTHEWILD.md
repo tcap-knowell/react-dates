@@ -4,6 +4,7 @@ Organizations
 ----------
  - [Airbnb](https://github.com/airbnb)
  - [Стрелочка](https://strelchka.ru)
+ - Sample
 
 Projects
 ----------
